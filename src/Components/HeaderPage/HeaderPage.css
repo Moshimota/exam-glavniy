@@ -1,0 +1,138 @@
+.h11{
+    font-weight: 800;
+font-size: 60px;
+line-height: 140%;
+/* or 84px */
+
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+margin-top: 150px;
+}
+.h21{
+    font-weight: 600;
+font-size: 25px;
+line-height: 150%;
+/* or 38px */
+
+
+color: #FFFFFF;
+margin-top: 30px;
+}
+.dfc{
+    margin-top: 91px;
+    display: flex;
+    justify-content: space-between;
+}
+.c-t{
+    margin-top: 14px;
+    font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.mini{
+    width: 25%;
+}
+.insta{
+    margin-top: 100px;
+}
+.cardreg{
+    margin-top: 166px;
+    margin-left: 270px;
+    width: 360px;
+height: 350px;
+background: #FFFFFF;
+border-radius: 20px;
+}
+.dve{
+    font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #444444;
+
+
+}
+.df3{
+    padding-top: 60px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn2{
+    display: flex;
+    justify-content: space-around;
+    width: 280px;
+height: 50px;
+align-items: center;
+margin: auto;
+margin-top: 6px;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #C0C2D7;
+
+background: #FFFFFF;
+border: 1px solid #C0C2D7;
+border-radius: 200px;
+}
+.kol{
+    margin-left: 20px;
+    margin-left: 66px;
+    font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #444444;
+
+}
+.btn3{
+    width: 280px;
+height: 50px;
+margin: auto;
+align-items: center;
+display: flex;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #C0C2D7;
+padding-left: 20px;
+background: #FFFFFF;
+border: 1px solid #C0C2D7;
+border-radius: 200px;
+}
+.btn4{
+    width: 280px;
+height: 50px;
+left: 1260px;
+top: 630px;
+
+/* active */
+
+background: #F4683F;
+border-radius: 200px;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #FFFFFF;
+border: none;
+margin-left: 40px;
+margin-top: 54px;
+}

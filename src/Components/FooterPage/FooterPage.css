@@ -1,0 +1,48 @@
+.bek-foo{
+    background: linear-gradient(180deg, #161723 0%, #161723 109.24%);
+}
+.may{
+    margin-top: 120px;
+}
+.kat{
+    font-weight: 800;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+
+color: #FFFFFF;
+
+}
+.mayda{
+    font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #C0C2D7;
+margin-top: 17px;
+}
+.kakk{
+    font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #C0C2D7;
+margin-bottom: 13px;
+}
+.in{
+    margin-top: 145px;
+}
+.nom{
+    font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #C0C2D7;
+}

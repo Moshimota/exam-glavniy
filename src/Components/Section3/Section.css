@@ -1,0 +1,32 @@
+.h24{
+    font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+
+color: #333333;
+margin-bottom: 40px;
+}
+.cardcik{
+    margin-top: 40px;
+height: 130px;
+display: flex;
+padding-left: 44px;
+align-items: center;
+background: #FFFFFF;
+box-shadow: 0px 4px 80px rgba(5, 9, 22, 0.08);
+border-radius: 20px;
+}
+.df7{
+    display: flex;
+    align-items: center;
+    gap: 27px;
+    font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #333333;
+}

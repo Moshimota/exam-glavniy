@@ -1,0 +1,25 @@
+.bek{
+    background: url(./img/bg\ rent.png);
+    height: 775px;
+    margin-top: 200px;
+}
+.h12{
+    font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+
+color: #FFFFFF;
+margin-top: 233px;
+}
+.os{
+    font-weight: 600;
+font-size: 18px;
+line-height: 160%;
+/* or 29px */
+margin-top: 20px;
+margin-bottom: 60px;
+
+color: #FFFFFF;
+}

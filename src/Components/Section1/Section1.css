@@ -1,0 +1,24 @@
+.h22{
+    font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+
+color: #333333;
+padding-top: 200px;
+}
+.korinmas{
+    margin-top: 76px;
+    margin-bottom: 200px;
+}
+.lol{
+    font-weight: 600;
+font-size: 16px;
+line-height: 160%;
+/* or 26px */
+
+
+color: #333333;
+margin-top: 23px;
+}

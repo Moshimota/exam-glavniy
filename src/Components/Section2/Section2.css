@@ -1,0 +1,85 @@
+.h23{
+    font-weight: 800;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+
+color: #333333;
+margin-bottom: 40px;
+}
+.c-im{
+    width: 100%;
+}
+.nov{
+    margin-left: 32px;
+    font-weight: 800;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: #333333;
+
+margin-top: 30px;
+}
+.df0{
+    display: flex;
+    margin-top: 16px;
+    gap: 12px;
+    margin-left: 32px;
+}
+.cards{
+    height: 600px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 80px rgba(5, 9, 22, 0.08);
+border-radius: 20px;
+width: 100%;
+margin-top: 40px;
+}
+.df9{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.narx{
+    font-weight: 800;
+font-size: 22px;
+line-height: 150%;
+/* identical to box height, or 33px */
+
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #333333;
+}
+.sabzi{
+    font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+/* active */
+
+color: #F4683F;
+
+}
+.btn8{
+    width: 280px;
+height: 50px;
+border: none;
+font-weight: 600;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+
+
+color: #FFFFFF;;
+background: #F4683F;
+border-radius: 200px;
+}
+.orta{
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 200px;
+}
